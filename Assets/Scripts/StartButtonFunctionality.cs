@@ -15,4 +15,9 @@ public class StartButtonFunctionality : MonoBehaviour
         Debug.Log("App Exit");
         Application.Quit();
     }
+
+    public void openTutorial()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+    }
 }
