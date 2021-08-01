@@ -6,6 +6,7 @@ public class FlashlightIncrease : MonoBehaviour
 {
 
     [SerializeField] private float curr_brightness;
+    [SerializeField] private float curr_range;
     private Light myLight;
 
     // Start is called before the first frame update
@@ -28,7 +29,9 @@ public class FlashlightIncrease : MonoBehaviour
 
     private void OnBatteryGet ()
     {
-        curr_brightness += 0.25f;
+        curr_brightness += 0.1f;
+        curr_range += 1.0f;
         myLight.intensity = curr_brightness;
+        myLight.range = curr_range;
     }
 }
