@@ -286,7 +286,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'you wake up in an abandoned manor with only your trusty flashlight on
+  m_Text: 'you wake up in an abandoned dungeon with only your trusty flashlight on
     hand. find a way to the manor''s exit avoiding any booby traps that send you
     back to your starting point. you may also find battery charges along the way
     that can be picked up to increase your flashlight''s brightness.
@@ -370,7 +370,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c2b3c1c242cd421428519cbfa4dc32d6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0a868c6d21bcee242bb0c3345ab14710, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
