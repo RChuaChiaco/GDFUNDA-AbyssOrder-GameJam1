@@ -1,0 +1,128 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 12153 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\DownloadedApplications\Unity\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/Documents/UnityProjects/s12_gamejam1
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+51102
+Successfully changed project path to: D:/Documents/UnityProjects/s12_gamejam1
+D:/Documents/UnityProjects/s12_gamejam1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 78.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path D:/DownloadedApplications/Unity/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Documents/UnityProjects/s12_gamejam1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   30.0.14.7111
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'D:/DownloadedApplications/Unity/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'D:/DownloadedApplications/Unity/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/DownloadedApplications/Unity/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56676
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/DownloadedApplications/Unity/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001679 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 126.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.674 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004012 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 132.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.044 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.48 seconds
+Refreshing native plugins compatible for Editor in 1.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2641 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.2 MB.
+System memory in use after: 209.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 3103.
+Total: 6.891200 ms (FindLiveObjects: 0.668500 ms CreateObjectMapping: 1.231400 ms MarkObjects: 4.363500 ms  DeleteObjects: 0.624800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/UI Assets/Materials/bricks_texture.mat
+  artifactKey: Guid(5fcbefc744fc4fb4a818ee4472ed8a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Assets/Materials/bricks_texture.mat using Guid(5fcbefc744fc4fb4a818ee4472ed8a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '869d2f630d8609a820f45c5feb0246fe') in 1.381923 seconds
+  Import took 1.430856 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 3.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.2 MB.
+System memory in use after: 153.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 3143.
+Total: 5.022800 ms (FindLiveObjects: 0.590000 ms CreateObjectMapping: 0.568300 ms MarkObjects: 3.774800 ms  DeleteObjects: 0.088300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002070 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.318 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2544 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 203.4 MB.
+System memory in use after: 203.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 3146.
+Total: 5.728200 ms (FindLiveObjects: 0.747500 ms CreateObjectMapping: 0.664100 ms MarkObjects: 4.229500 ms  DeleteObjects: 0.084700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.059574 seconds.
+  path: Assets/UI Assets/bricks_texture.png
+  artifactKey: Guid(a60d463fd5c788e43a27e1c3d611a53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Assets/bricks_texture.png using Guid(a60d463fd5c788e43a27e1c3d611a53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b24f5ba7ba266a7256e7ddbf4476962') in 0.330723 seconds
+  Import took 0.358001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018431 seconds.
+  path: Assets/UI Assets/bricks_texture.png
+  artifactKey: Guid(a60d463fd5c788e43a27e1c3d611a53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Assets/bricks_texture.png using Guid(a60d463fd5c788e43a27e1c3d611a53e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b24f5ba7ba266a7256e7ddbf4476962') in 0.024271 seconds
+  Import took 0.045569 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
