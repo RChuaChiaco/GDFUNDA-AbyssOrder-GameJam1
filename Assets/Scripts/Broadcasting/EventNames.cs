@@ -54,7 +54,9 @@ public class EventNames {
 	public class GameJam_Events
     {
 		public const string BATTERY_GET = "BATTERY_GET";
-    }
+		public const string TRAP_BATTERY = "TRAP_BATTERY";
+		public const string DEATH_STRING = "DEATH_STRING";
+	}
 }
 
 
