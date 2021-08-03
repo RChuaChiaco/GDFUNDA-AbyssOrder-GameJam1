@@ -56,6 +56,7 @@ public class EventNames {
 		public const string BATTERY_GET = "BATTERY_GET";
 		public const string TRAP_BATTERY = "TRAP_BATTERY";
 		public const string DEATH_STRING = "DEATH_STRING";
+		public const string PLAYER_WIN = "PLAYER_WIN";
 	}
 }
 
