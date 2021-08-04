@@ -288,23 +288,25 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'you wake up in an abandoned dungeon with only your trusty flashlight on
     hand. find a way to the manor''s exit avoiding any booby traps that send you
-    back to your starting point. you may also find battery charges along the way
-    that can be picked up to increase your flashlight''s brightness.
+    to your demise. you may also find battery charges along the way that can be picked
+    up to increase your flashlight''s brightness.
 
 
     controls:
 
-    w
-    - move forward
+    w - move forward
 
-    a - strafe left
+    a
+    - strafe left
 
     d - strafe right
 
     s - move backward
 
-    mouse
-    - aim'
+    mouse - aim
+
+    p
+    - pause game'
 --- !u!222 &477270207
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -57,6 +57,7 @@ public class EventNames {
 		public const string TRAP_BATTERY = "TRAP_BATTERY";
 		public const string DEATH_STRING = "DEATH_STRING";
 		public const string PLAYER_WIN = "PLAYER_WIN";
+		public const string PLATE_ACTIVE = "PLATE_ACTIVE";
 	}
 }
 

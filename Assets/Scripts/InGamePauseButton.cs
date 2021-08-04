@@ -9,6 +9,15 @@ public class InGamePauseButton : MonoBehaviour
     [SerializeField] private GameObject pauseButtonGroup;
     [SerializeField] private GameObject pauseButton;
 
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            this.pauseGame();
+        }
+    }
+
     public void pauseGame()
     {
         Time.timeScale = 0;
