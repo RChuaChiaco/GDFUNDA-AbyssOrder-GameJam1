@@ -7,7 +7,7 @@ public class StartButtonFunctionality : MonoBehaviour
 {
     public void startGame ()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene(1);
     }
 
     public void exitGame ()
@@ -18,6 +18,11 @@ public class StartButtonFunctionality : MonoBehaviour
 
     public void openTutorial()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+        SceneManager.LoadScene(2);
+    }
+
+    public void openCredits()
+    {
+        SceneManager.LoadScene(3);
     }
 }
